@@ -1,0 +1,2 @@
+# Seed0_9_InvestingWebsite
+Seed0_9 is an online website in which people can invest their money/capital at a very secure and in efficient manner. After getting registered or signed up the user will be provided with the unique user id. SEED0_9 is a website that directly invest your money in the market by themselves with no fee. Seed0_9 have analyze the market by them self so that the user’s capital goes in the most growth able place of the market.
